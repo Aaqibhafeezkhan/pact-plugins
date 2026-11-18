@@ -3,6 +3,8 @@
 This is a simple gRPC example that can receive a shape via gRPC, and return the area for the shape. See the [proto file](proto/area_calculator.proto)
 for more details.
 
+Source code: [Area Calculator example on GitHub](https://github.com/pact-foundation/pact-plugins/tree/main/examples/gRPC/area_calculator).
+
 The proto file has a single service method which these examples will be testing:
 
 ```protobuf
